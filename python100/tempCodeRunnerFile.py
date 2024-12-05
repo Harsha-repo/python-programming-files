@@ -1,0 +1,1 @@
+print(xor2^xor1)

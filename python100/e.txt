@@ -1,0 +1,6 @@
+name      roll      class
+
+harsha     1          a
+abhi       3          b
+arun       4          a
+giri       8          n
